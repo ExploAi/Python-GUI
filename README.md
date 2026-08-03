@@ -1,30 +1,4 @@
 
-
-
-
-![Python-GUI](https://socialify.git.ci/walidbosso/Python-GUI/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
-
-
-<p align="center">
-<a href="https://github.com/walidbosso/Python-GUI">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
-</p>
-<div align="center">
-  
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/Python-GUI)
-
-  <p align="center">
-<a href="https://github.com/walidbosso/Python-GUI">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FPython-GUI&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
-</p>
-
-<a href="https://github.com/walidbosso/Python-GUI">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
-  <a/>
-</a>
-
-
-<br/>
   
 # Pharmacy Management System with SQLite, XML, Files, GUI and Django.
   
@@ -62,14 +36,14 @@ This project operates under the **Apache-2.0 License**. Refer to the [LICENSE](L
 
 Your feedback and contributions are invaluable! Feel free to open issues, submit pull requests, or connect for discussions.
 
-- Contact me in [LinkedIn](https://www.linkedin.com/in/walidbosso) for questions.
+- Contact me in [LinkedIn](https://www.linkedin.com/in/ExploAi) for questions.
 - ![PRs Welcome](https://img.shields.io/badge/🌐_PRs-Welcome-navy.svg?=for-the-badge) ![Ask me anything](https://img.shields.io/badge/❔_Ask%20me-anything-1abc9c.svg?=for-the-badge)  
 <br>
 
 <div align="center">
   
 ----------------------
-> >  <br/>  &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  <br/>
+> >  <br/>  &copy; *by Explo*<br/>  <br/>
 > > ![Made with Love](https://img.shields.io/badge/❤️‍🔥_Made%20with-Love-red.svg)
 ----------------------
 
@@ -82,7 +56,7 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/Python-GUI](http://reporoster.com/stars/dark/walidbosso/Python-GUI)](https://github.com/walidbosso/Python-GUI/stargazers)
+[![Stargazers repo roster for @ExploAi/Python-GUI](http://reporoster.com/stars/dark/ExploAi/Python-GUI)](https://github.com/ExploAi/Python-GUI/stargazers)
 
 
 
@@ -92,14 +66,14 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/Python-GUI](http://reporoster.com/forks/dark/walidbosso/Python-GUI)](https://github.com/walidbosso/Python-GUI/network/members)
+[![Forkers repo roster for @ExploAi/Python-GUI](http://reporoster.com/forks/dark/ExploAi/Python-GUI)](https://github.com/ExploAi/Python-GUI/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/Python-GUI"/>
+<a href = "https://github.com/ExploAi">
+  <img src = "https://contrib.rocks/image?repo=ExploAi/Python-GUI"/>
 </a>
 
 
@@ -109,15 +83,15 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <!--THANKS-->
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/ExploAi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ExploAi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </p>
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Python-GUI?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ExploAi/Python-GUI?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/Python-GUI?style=social)
+![GitHub License](https://img.shields.io/github/license/ExploAi/Python-GUI?style=social)
 
 
 
@@ -132,14 +106,14 @@ Your feedback and contributions are invaluable! Feel free to open issues, submit
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/ExploAi">
   <img src = "border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/ExploAi">
   <img src = "ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/ExploAi">
   <img src = "border.gif" width="100%"/>
 </a>
